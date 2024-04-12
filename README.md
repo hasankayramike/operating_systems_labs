@@ -1,6 +1,8 @@
 # Lab Assignments for IN333 Operating Systems
 *Course: https://ects.gsu.edu.tr/tr/program/coursedetails/13377*
 
+*All assignments are realized on linux* 
+
 # Lab Contents
 ### Lab1
 - Linux filesystem
